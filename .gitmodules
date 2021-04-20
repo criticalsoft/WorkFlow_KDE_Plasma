@@ -1,0 +1,3 @@
+[submodule "Script/Grid_WM"]
+	path = Script/Grid_WM
+	url = https://github.com/criticalsoft/Grid_WM.git

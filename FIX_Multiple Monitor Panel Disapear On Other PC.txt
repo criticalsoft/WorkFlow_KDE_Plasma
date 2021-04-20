@@ -1,0 +1,19 @@
+kate ~/.config/plasmashellrc
+#Switch The Number Of Monitor Which Panel Does Not Exist
+
+[ScreenConnectors]
+0=HDMI-1
+7=DVI-I-2-1
+7=eDP-1
+7=DP-0
+7=HDMI-4
+7=LVDS-1
+7=:0.0
+7=DVI-I-1-1
+7=DP-1
+
+
+bash -c 'killall plasmashell; plasmashell &'
+
+
+
