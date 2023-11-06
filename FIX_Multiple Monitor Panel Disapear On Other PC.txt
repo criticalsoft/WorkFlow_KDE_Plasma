@@ -1,0 +1,19 @@
+kate ~/.config/plasmashellrc
+[ScreenConnectors]
+
+
+
+
+# Find The Line Of Monitor (Which Panel Is Hidden)
+# Change Screen Connector Number (0, 1, 2, 3, ...)
+
+0=DP-3
+1=DP-4
+
+
+
+
+bash -c 'killall plasmashell; plasmashell &'
+
+
+
